@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13",
+    "node": "^17.1.0"
+  },
+  "name": "mongoosetutorial",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorPaturzo/MongooseTutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorPaturzo/MongooseTutorial/issues"
+  },
+  "homepage": "https://github.com/victorPaturzo/MongooseTutorial#readme"
+}
